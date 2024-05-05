@@ -1,0 +1,27 @@
+<html>
+    <head>
+        metadata-information-to-not-display
+    </head>
+    <body>
+        <b>
+            This text should be bolded
+        </b>
+        <a>
+            Here the information to describe what the resource is about
+        </a>
+
+        <b>
+            I want to have more than one bolded text
+        </b>
+
+        <i>
+            Here is more text to be inserted, not bolded
+        </i>
+        <i>
+            Other more text to be inserted, not bolded as well!
+        </i>
+        <a>
+            Another description for another URL
+        </a>
+    </body>
+</html>
